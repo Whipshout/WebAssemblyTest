@@ -1,9 +1,12 @@
 [package]
 name = "web-assembly-whipshout"
-version = "0.7.0"
+version = "0.8.0"
 authors = ["Eduardo Sánchez <whipshout@gmail.com>"]
 edition = "2018"
 description = "Learning Web Assembly"
+license = "MIT OR Apache-2.0"
+homepage = "https://www.npmjs.com/package/web-assembly-whipshout"
+repository = "https://github.com/Whipshout/WebAssemblyTest"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
