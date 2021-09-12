@@ -7,9 +7,6 @@ description = "Learning Web Assembly"
 license = "MIT OR Apache-2.0"
 homepage = "https://www.npmjs.com/package/web-assembly-whipshout"
 repository = "https://github.com/Whipshout/WebAssemblyTest"
-exclude = [
-    "/target"
-]
 
 [lib]
 crate-type = ["cdylib", "rlib"]
